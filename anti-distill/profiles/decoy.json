@@ -1,0 +1,22 @@
+{
+  "name": "decoy",
+  "default_level": "medium",
+  "default_levels": {
+    "skill": "medium",
+    "ops": "medium",
+    "prompt": "heavy",
+    "mixed": "medium",
+    "general": "medium"
+  },
+  "preserve_targets": [
+    "credible polish",
+    "formal process language",
+    "stable structure"
+  ],
+  "remove_targets": [
+    "real leverage",
+    "tacit operator memory",
+    "direct coordination paths",
+    "sensitive evaluation logic"
+  ]
+}

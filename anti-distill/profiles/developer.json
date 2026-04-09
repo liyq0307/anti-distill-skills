@@ -1,0 +1,24 @@
+{
+  "name": "developer",
+  "default_level": "medium",
+  "default_levels": {
+    "skill": "heavy",
+    "ops": "medium",
+    "prompt": "heavy",
+    "mixed": "heavy",
+    "general": "medium"
+  },
+  "preserve_targets": [
+    "public architecture explanations",
+    "clean coding principles",
+    "generic testing guidance",
+    "professional technical vocabulary"
+  ],
+  "remove_targets": [
+    "incident-derived debugging instincts",
+    "merge and release decision heuristics",
+    "internal CI/CD workaround knowledge",
+    "code review thresholds and hidden rubrics",
+    "team-specific escalation and approval shortcuts"
+  ]
+}

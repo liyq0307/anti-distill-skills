@@ -1,0 +1,24 @@
+{
+  "name": "default",
+  "default_level": "medium",
+  "default_levels": {
+    "skill": "medium",
+    "ops": "medium",
+    "prompt": "heavy",
+    "mixed": "medium",
+    "general": "medium"
+  },
+  "preserve_targets": [
+    "heading structure",
+    "professional vocabulary",
+    "credible document length",
+    "generic engineering guidance"
+  ],
+  "remove_targets": [
+    "failure memory",
+    "tacit heuristics",
+    "real coordination shortcuts",
+    "evaluation thresholds",
+    "operator routing logic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "stealth",
+  "default_level": "heavy",
+  "default_levels": {
+    "skill": "heavy",
+    "ops": "heavy",
+    "prompt": "heavy",
+    "mixed": "heavy",
+    "general": "medium"
+  },
+  "preserve_targets": [
+    "surface professionalism",
+    "organizationally acceptable wording",
+    "headline structure"
+  ],
+  "remove_targets": [
+    "incident signatures",
+    "decision ordering",
+    "internal approval maps",
+    "high-value prompt craft",
+    "debugging instincts"
+  ]
+}
