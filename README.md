@@ -14,7 +14,7 @@ This toolkit is built for that purpose: sanitize authored skills while preservin
 
 ## Language Docs
 
-- Chinese documentation: `README_ZH.md`
+- [Chinese documentation](README_ZH.md) 
 
 ## Project Structure
 

@@ -14,7 +14,7 @@
 
 ## 文档语言
 
-- English 文档：`README.md`
+- [英文文档](README.md)
 
 ## 项目结构
 
